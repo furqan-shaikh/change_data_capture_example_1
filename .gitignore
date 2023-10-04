@@ -1,0 +1,5 @@
+config.py
+cdc_example_1_venv/*
+__pycache__/*
+.idea/*
+.DS_Store

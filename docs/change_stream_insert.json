@@ -1,0 +1,30 @@
+{
+    "_id": {
+        "_data": "82651CE7870000005E2B022C0100296E5A10049A983E885BA54AA1BB7F37462A83508346645F69640064651CE787A45669C636A26E3D0004"
+    },
+    "operationType": "insert",
+    "fullDocument": {
+        "_id": ObjectId("651ce787a45669c636a26e3d"),
+        "id": "Dwu85P9SOIk",
+        "width": 2448,
+        "height": 3264,
+        "description": "A man drinking a coffee.",
+        "city": "Montreal",
+        "country": "Canada",
+        "latitude": 45.473298,
+        "longitude": -73.638488,
+        "exif_make": "Canon",
+        "exif_model": "Canon EOS 40D",
+        "exif_exposure_time": "0.011111111111111112",
+        "urls": [
+            "https: //images.unsplash.com/photo-1417325384643-aac51acc9e5d"
+        ]
+    },
+    "ns": {
+        "db": "cdc_db",
+        "coll": "photos"
+    },
+    "documentKey": {
+        "_id": ObjectId("651ce787a45669c636a26e3d")
+    }
+}
